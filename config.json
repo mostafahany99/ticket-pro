@@ -1,22 +1,12 @@
 {
- "ticketCategoryID": "1019940097422020630",
- "ticketNumber": 3,
- "BACKGROUND": "https://images-ext-1.discordapp.net/external/qUw-j0iyrQP_iFSqGVP0AtJvwmNG1FKYxVr6YISct9M/https/cdn.al-ain.com/lg/images/2020/5/20/143-131153-mg-1-million-cars-by-2024_700x400.jpg?format=webp",
+ "ticketCategoryID": "1229122962742054923",
+ "ticketNumber": 1,
+ "BACKGROUND": "https://media.discordapp.net/attachments/1229830626081902622/1230600956748628098/EDITED-1.png?ex=6633e973&is=66217473&hm=2722fa0102de6f4729fa3aeea920ea2ff14b30614993abc7b0e2fc7253a34d9d&=&format=webp&quality=lossless&width=550&height=309",
  "SECTIONS": [
   {
    "name": "Fortnite",
-   "roleID": "1021518751188926537",
-   "image": "https://cdn.discordapp.com/attachments/1229830626081902622/1230535223536521307/gifting.png?ex=6633ac3b&is=6621373b&hm=09194a819da8463ed8309cfbca97d9e23370a0aa148dd7ee2e1ea05f5a2d332f&"
-  },
-{
-"name": "addd",
-   "roleID": "1021518751188926537",
-   "image": "https://media.discordapp.net/attachments/1104810385527279666/1119533114583171072/Valorant_Screenshot_2023.06.16_-_19.59.39.96.png?ex=662cacf6&is=661a37f6&hm=effcfa72ddab0d3d5a279827989356da3fb126a4d87cdda73cab2065e28a8aa9&=&format=webp&quality=lossless&width=894&height=754"  
-},
-{
-   "name": "wdcaa",
-   "roleID": "1021518751188926537",
-   "image": "https://images-ext-1.discordapp.net/external/qUw-j0iyrQP_iFSqGVP0AtJvwmNG1FKYxVr6YISct9M/https/cdn.al-ain.com/lg/images/2020/5/20/143-131153-mg-1-million-cars-by-2024_700x400.jpg?format=webp"
+   "roleID": "1229813582137524256",
+   "image": "https://media.discordapp.net/attachments/1229830626081902622/1230598905063014420/gifting.png?ex=6633e78a&is=6621728a&hm=014299af3facd916d8c973fa7a96f55a0ac91aa9cec7e9f07f87c88c66bcb3b5&=&format=webp&quality=lossless&width=550&height=306"
   }
  ]
 }
