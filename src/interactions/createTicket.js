@@ -76,11 +76,11 @@ module.exports = {
       const row = new ActionRowBuilder().addComponents(
         new ButtonBuilder()
           .setCustomId(`close_ticket*_${roleID}`)
-          .setLabel("إغلاق التذكرة")
+          .setLabel("Close Ticket")
           .setStyle(ButtonStyle.Secondary),
         new ButtonBuilder()
           .setCustomId(`claim_ticket`)
-          .setLabel("استلام التذكرة")
+          .setLabel("Receive Ticket")
           .setStyle(ButtonStyle.Secondary),
       );
 
