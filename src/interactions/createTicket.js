@@ -93,7 +93,7 @@ module.exports = {
       });
 
       await interaction.editReply({
-        content: `تم إنشاء التذكرة! يرجى التحقق من ${ticketChannel}`,
+        content: `The ticket was created! Please check the ${ticketChannel}`,
         ephemeral: true,
       });
     } catch (error) {
