@@ -87,7 +87,8 @@ module.exports = {
       // Send an initial message in the ticket channel
       ticketChannel.send({
         files: [Attachment],
-        content: `**مرحباً بك في تذكرة الدعم الخاصة بك, <@${user.id}>. سيساعدك عضو من <@&${roleID}> قريباً.**`,
+        content: `**Welcome to your support ticket, <@${user.id}>. will help you as soon as possible <@&${roleID}> .**
+`,
         components: [row],
       });
 
