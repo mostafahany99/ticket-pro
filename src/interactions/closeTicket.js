@@ -47,7 +47,7 @@ module.exports = {
       const row = new ActionRowBuilder().addComponents(
         new ButtonBuilder()
           .setCustomId("delete_ticket")
-          .setLabel("حذف التذكرة")
+          .setLabel("delete ticket")
           .setStyle(ButtonStyle.Secondary)
       );
       interaction.message.components[0].components[0].data.disabled = true;
