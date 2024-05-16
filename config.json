@@ -6,17 +6,17 @@
   {
    "name": "Fortnite",
    "roleID": "1229813582137524256",
-   "image": "https://cdn.discordapp.com/attachments/1229830626081902622/1231367703835709490/gifting.png?ex=6645dcca&is=66448b4a&hm=b7d5dd8c5c5c1dbcc61f7a33b0e7d01b48a0b5688df67ed4e5224ea7e5b3150f&"
+   "image": "file:///D:/%D8%B5%D9%88%D8%B1/gifting.png"
   },
 {
    "name": "Rocket League",
    "roleID": "1229813650332586034",
-   "image": "https://cdn.discordapp.com/attachments/1229830626081902622/1231367501238243460/Untitled-1.jpg?ex=6645dc99&is=66448b19&hm=d9c44e4b09dc3c4bb4b18c69663aa3d0ef960c4decc02bc23ffcf8781ea2691a&"
+   "image": ""
   },
 {
    "name": "Call of Duty",
    "roleID": "1229813650332586034",
-   "image": "https://cdn.discordapp.com/attachments/1229830626081902622/1231367500743311461/Untitled-2.jpg?ex=6645dc99&is=66448b19&hm=ad47d620fea68347b2801f425177b4620c5b3435106861a41515c4bcc83b17dd&"
+   "image": ""
   }
  ]
 }
